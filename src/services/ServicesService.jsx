@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const SERVICES_REST_API_URL = "http://localhost:9003/services";
+const SERVICES_REST_API_URL = "a217fabb187a34096851550a46373860-1466940499.us-east-1.elb.amazonaws.com/services";
 
 class ServicesService {
 
