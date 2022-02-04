@@ -14,7 +14,7 @@ spec:
     spec:   #What state you desire for the object
       containers:
       - name: frontend #container name
-        image: 'frotend:latest' #image name
+        image: 'frontend:latest' #image name
         ports:
         - containerPort: 3000 # demo runs on port 8080
 ---
