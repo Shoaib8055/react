@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const SERVICES_REST_API_URL = "abf1f142a7d224269a4843a072062f8f-664017945.us-east-1.elb.amazonaws.com/services";
+const SERVICES_REST_API_URL = "adf2b18a7fa1245a69ae8705c9111935-290913073.us-east-1.elb.amazonaws.com/services";
 
 class ServicesService {
 
